@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋,Eu sou Michele</h1>
 <h3 align="center">Em transição de carreira do Financeiro para TI</h3>
 
-- 🌱 Atualmente estou aprendendo **HTML, CSS e JavaScript - MySQL, PHP**
+- 🌱 Atualmente estou aprendendo **Java POO, Python - MySQL, PHP**
 
 - 📫 Você me acha através do e-mail **mnmdc1993@gmail.com**
 
